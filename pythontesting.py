@@ -6,6 +6,8 @@ def add(x, y):
 def multiply(x, y):
     return x * y
 
+# kommentti
+
 def power(x, y):
     """Calculate x raised to the power y without using math.pow."""
     result = 1
